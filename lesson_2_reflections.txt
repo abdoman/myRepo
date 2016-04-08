@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 when you're experimenting with your code, branches can be treated as a copy of your project 
 unti you want to merge or discard it!
 
+How do the diagrams help you visualize the branch structure?
+
+they can help visualize unreachable commits, since each commit can reference the father.
+the detached head warning is concerned by this!
