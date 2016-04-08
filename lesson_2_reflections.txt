@@ -13,3 +13,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 before committting, run [git diff --staged] to see whats the changes ready for commit
  [compares staged area to latest commit] this way you know what'youre about to commit
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you're experimenting with your code, branches can be treated as a copy of your project 
+unti you want to merge or discard it!
+
