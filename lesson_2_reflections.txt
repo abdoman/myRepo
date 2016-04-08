@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git files are added to keep track of the metadata (history and changes as you go about
+your development)
