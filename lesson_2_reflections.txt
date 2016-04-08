@@ -22,3 +22,8 @@ How do the diagrams help you visualize the branch structure?
 
 they can help visualize unreachable commits, since each commit can reference the father.
 the detached head warning is concerned by this!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+new head that contains the code from both. one branch merges into the other, master is the new head, and 
+delete the old branch name [git branch -d coins], still, all the old commits are still there!
