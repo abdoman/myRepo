@@ -27,3 +27,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 new head that contains the code from both. one branch merges into the other, master is the new head, and 
 delete the old branch name [git branch -d coins], still, all the old commits are still there!
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+you're incontrol, no way to manage complex situations manually!
