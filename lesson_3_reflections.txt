@@ -13,3 +13,7 @@ fork: create a copy of a repo on github
 clone: create a copy on your local computer
 branches: just other types of commits on which you can build upon then merge later
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+keepig track of this state [origin/master] you can compare how far your local has changes since the last pull.
+
