@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 keepig track of this state [origin/master] you can compare how far your local has changes since the last pull.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Harder, exchande code in txt files!
+
